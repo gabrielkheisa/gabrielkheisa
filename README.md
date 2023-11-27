@@ -1,7 +1,5 @@
 # [Gabriel Kheisa](https://github.com/gabrielkheisa)
 
-![](https://avatars.githubusercontent.com/u/63294471?v=4)
-
 ## About Me
 
 Hi! I'm Gabriel Kheisa, Electronics and computer enthusiast, video editing hobbyist, web, cloud developer, 2022 Bangkit Cloud Computing graduate with distinction and interested in simplifying everything with the help of cloud infrastructure and AI.
