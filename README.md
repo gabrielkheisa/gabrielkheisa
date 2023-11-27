@@ -22,7 +22,10 @@ Hi! I'm Gabriel Kheisa, Electronics and computer enthusiast, video editing hobby
 * [Earthquake Map](https://github.com/gabrielkheisa/earthquake_id)
 * [News Scrapper](https://github.com/gabrielkheisa/news-scrapper)
 * [Bangkit 2022 Company Capstone](https://youtu.be/FJ3_55yHKI4)
+* [Indihome anti private IP for web hosting](https://github.com/gabrielkheisa/indihome-anti-private-IP-F609)
 
 ## Contact Me
 
 I'm always happy to connect with others. Feel free to reach out to me on [Linkedin](https://gabrielkheisa.xyz/linkedin) and [Portfolio website](https://gabrielkheisa.xyz).
+
+Email: mail@gabrielkheisa.xyz
