@@ -13,6 +13,8 @@ Hi! I'm Gabriel Kheisa, Electronics and computer enthusiast, video editing hobby
 * Node.js
 * Laravel
 * Docker
+* Network management (OpenVPN, OpenWrt, Dynamic DNS)
+* Cloud deployment (PaaS, SaaS, Kubernetes, S3)
 
 ## My Projects
 
