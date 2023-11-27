@@ -1,4 +1,4 @@
-# [Gabriel Kheisa](https://github.com/gabrielkheisa)
+# [Gabriel Kheisa](https://gabrielkheisa.xyz)
 
 ## About Me
 
@@ -28,6 +28,6 @@ Hi! I'm Gabriel Kheisa, Electronics and computer enthusiast, video editing hobby
 
 ## Contact Me
 
-I'm always happy to connect with others. Feel free to reach out to me on [Linkedin](https://gabrielkheisa.xyz/linkedin) and [Portfolio website](https://gabrielkheisa.xyz).
+I'm always happy to connect with others. Feel free to reach out to me on [Linkedin](https://gabrielkheisa.xyz/linkedin), [portfolio website](https://gabrielkheisa.xyz), and [blog](https://blog.gabrielkheisa.xyz).
 
 Email: mail@gabrielkheisa.xyz
