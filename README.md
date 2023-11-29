@@ -1,5 +1,7 @@
 # [Gabriel Kheisa](https://gabrielkheisa.xyz)
 
+<img width="100%" src="https://cdn.discordapp.com/attachments/1003173519879847966/1178759805343649843/267323786.jpg">
+
 ## About Me
 
 Hi! I'm Gabriel Kheisa, Electronics and computer enthusiast, video editing hobbyist, web, cloud developer, 2022 Bangkit Cloud Computing graduate with distinction and interested in simplifying everything with the help of cloud infrastructure and AI.
